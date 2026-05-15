@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="https://www.credly.com/badges/129b0720-819b-464c-8bcb-41650ebb855c/public_url">
-    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/Certified_Solutions_Architect_Associate.png" width="110" height="110" alt="AWS SAA-C03 Badge">
+    <img src="aws-certified-solutions-architect-associate.png" width="120" align="left" style="margin-right: 20px;">
   </a>
 </div>
 
