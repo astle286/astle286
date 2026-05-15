@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Astle E.M 👋
 
-<!--
-**astle286/astle286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="[YOUR_CREDLY_PUBLIC_LINK_HERE](https://www.credly.com/badges/129b0720-819b-464c-8bcb-41650ebb855c/public_url)">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/Certified_Solutions_Architect_Associate.png" width="110" height="110" alt="AWS SAA-C03 Badge">
+  </a>
+</div>
 
-Here are some ideas to get you started:
+**DevOps Engineer | AWS Solutions Architect | Automation Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+I am a DevOps-focused engineer dedicated to building scalable, automated, and highly available cloud infrastructure. With a strong foundation in enterprise server environments, I specialize in modernizing workflows through CI/CD, containerization, and AWS cloud architecture.
+
+*   🚀 **Current Focus:** Advanced Terraform modules and Kubernetes orchestration.
+*   🛠️ **Tech Stack:** AWS (EC2, S3, RDS), Docker, Jenkins, and Git.
+*   ⚙️ **Background:** 9+ years of deep infrastructure experience, providing a solid backbone for cloud-native migrations.
+*   🧪 **Recent Project:** Developed a custom monitoring visualizer using Next.js within mobile-linux (Termux) environments.
+
+---
+
+### 🛠️ Technical Arsenal
+*   **Cloud:** AWS (VPC, EC2, S3, IAM, CloudWatch)
+*   **DevOps:** Docker, Jenkins, Git, CI/CD Pipelines
+*   **Scripting:** PowerShell, Python, Bash
+*   **Database:** SQL Server Management & Performance Tuning
+
+---
+
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/astle-e-m-73932a105/)
