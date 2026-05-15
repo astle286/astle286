@@ -1,12 +1,20 @@
-# Hi, I'm Astle E.M 👋
+# Hi, I'm Astle E.M
 
-<div align="left">
-  <a href="https://www.credly.com/badges/129b0720-819b-464c-8bcb-41650ebb855c/public_url">
-    <img src="aws-certified-solutions-architect-associate.png" width="120" align="left" style="margin-right: 20px;">
-  </a>
-</div>
-
-**DevOps Engineer | AWS Solutions Architect | Automation Enthusiast**
+<table>
+  <tr>
+    <td width="160px" align="center" valign="top">
+      <a href="https://www.credly.com/users/astle-e-m" target="_blank">
+        <img src="aws-certified-solutions-architect-associate.png" width="140px">
+      </a>
+      <br />
+      <sub><b>AWS Certified</b></sub>
+    </td>
+    <td valign="top">
+      <h3>DevOps Engineer | AWS Solutions Architect | Automation Enthusiast</h3>
+      <p>I am a DevOps-focused engineer dedicated to building scalable, automated, and highly available cloud infrastructure. With a strong foundation in enterprise server environments, I specialize in modernizing workflows through CI/CD, containerization, and AWS cloud architecture.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -16,7 +24,7 @@ I am a DevOps-focused engineer dedicated to building scalable, automated, and hi
 *   🚀 **Current Focus:** Advanced Terraform modules and Kubernetes orchestration.
 *   🛠️ **Tech Stack:** AWS (EC2, S3, RDS), Docker, Jenkins, and Git.
 *   ⚙️ **Background:** 9+ years of deep infrastructure experience, providing a solid backbone for cloud-native migrations.
-*   🧪 **Recent Project:** Developed a custom monitoring visualizer using Next.js within mobile-linux (Termux) environments.
+*   🧪 **Recent Project:** Developed Infrastructure-as-Code (IaC) scripts for consistent and repeatable cloud environment deployments on AWS.
 
 ---
 
