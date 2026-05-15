@@ -23,7 +23,7 @@ I am a DevOps-focused engineer dedicated to building scalable, automated, and hi
 
 *   🚀 **Current Focus:** Advanced Terraform modules and Kubernetes orchestration.
 *   🛠️ **Tech Stack:** AWS (EC2, S3, RDS), Docker, Jenkins, and Git.
-*   ⚙️ **Background:** 9+ years of deep infrastructure experience, providing a solid backbone for cloud-native migrations.
+*   ⚙️ **Background:** 3+ years of deep infrastructure experience, providing a solid backbone for cloud-native migrations.
 *   🧪 **Recent Project:** Developed Infrastructure-as-Code (IaC) scripts for consistent and repeatable cloud environment deployments on AWS.
 
 ---
